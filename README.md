@@ -83,9 +83,9 @@ Autonomous driving systems must process continuous video streams in real-time, d
 
 ---
 
-## 📸 Sample Output (Coming Soon!)
+## 📸 Sample Output
 
-![Sample Frame](docs/sample_frame.jpg)  
+
 _A processed video frame with lane lines, object labels, and frame skipping applied._
 
 ---
